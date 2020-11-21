@@ -320,6 +320,7 @@ namespace CommandAPI.Tests
             var result = controller.DeleteCommand(0);
 
             //Assert
+            // Pass test
             //Assert.IsType<NotFoundResult>(result);
 
             // Break test
