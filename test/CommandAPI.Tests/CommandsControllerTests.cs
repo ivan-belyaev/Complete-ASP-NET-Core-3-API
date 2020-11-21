@@ -319,7 +319,7 @@ namespace CommandAPI.Tests
             //Act
             var result = controller.DeleteCommand(0);
 
-            //Assert
+            //Asserts
             // Pass test
             //Assert.IsType<NotFoundResult>(result);
 
